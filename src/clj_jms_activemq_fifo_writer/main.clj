@@ -17,7 +17,7 @@
                        :default "test.fifo.topic"]
                       ["-f" "--file"
                        "Name of the file/fifo to where the data will be written."
-                       :default "test.fifo"]
+                       :default "test.writer.fifo"]
                       ["-h" "--help" "Print this help." :flag true])
         arg-map (cli-args 0)
         extra-args (cli-args 1)
