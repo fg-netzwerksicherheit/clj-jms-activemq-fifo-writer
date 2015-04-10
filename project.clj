@@ -5,6 +5,6 @@
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.6.0"]
                  [org.clojure/tools.cli "0.2.4"]
-                 [fg-netzwerksicherheit/clj-jms-activemq-toolkit "1.99.0"]
-                 [clj-assorted-utils "1.9.0-SNAPSHOT"]]
+                 [fg-netzwerksicherheit/clj-jms-activemq-toolkit "1.99.1"]
+                 [clj-assorted-utils "1.9.0"]]
   :main clj-jms-activemq-fifo-writer.main)
