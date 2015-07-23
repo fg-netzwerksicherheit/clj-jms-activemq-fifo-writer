@@ -1,10 +1,10 @@
 # clj-jms-activemq-fifo-writer
 
-A Clojure library designed to ... well, that part is up to you.
+A simple tool that reads data from a named pipe (fifo) and sends it to a JMS topic.
 
 ## Usage
 
-FIXME
+Please see the README.md in the [clj-jms-activemq-fifo-reader project](https://github.com/fg-netzwerksicherheit/clj-jms-activemq-fifo-reader) for more details.
 
 ## License
 
