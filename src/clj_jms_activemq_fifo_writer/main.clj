@@ -9,6 +9,7 @@
 (ns
   ^{:author "Ruediger Gad",
     :doc "Main class"}
+  clj-jms-activemq-fifo-writer.main
   (:use clojure.pprint
         [clojure.string :only [join split]]
         clojure.tools.cli
